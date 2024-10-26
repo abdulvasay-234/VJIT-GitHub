@@ -7,3 +7,4 @@
 | Open an issue | Use .gitignore | Create README | Link Issue with PR | Reopen a Issue |
 | Create a label | Create a pull request | Commit with a message | Merge a PR | Revert the pull request |
 | License a repo | Comment on a discussion | Create a discussion | Create a GitHub page | Use copilot & ask the copilot to write any code |
+this is a pull request
